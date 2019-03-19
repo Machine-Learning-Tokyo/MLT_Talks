@@ -1,7 +1,7 @@
 # MLT Talks
 ## Slides, videos and other resources from MLT Talks.
 
-## Deep Neural Networks for Video Applications with Alex Conway
+## Deep Neural Networks for Video Applications with Alex Conway, NumberBoost
 -- TALK --
 Most CCTV video cameras exist as a sort of time machine for insurance purposes. Deep neural networks make it easy to convert video into data which can then be used to trigger real-time anomaly alerts and optimize complex business processes. Deep learning can also be used in academic research to speed up labeling of video recorded from the point of view of animals wearing go-pros. This talk will present some theory of deep neural networks for video applications as well as academic research and several applied real-world industrial examples.
 
