@@ -10,7 +10,7 @@ Alex is the Founder and Head of Data Science at NumberBoost, a startup based in 
 
 -- SLIDES --
 
-[<p align="left"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/numberboost.png" width="600"></p>](https://www.slideshare.net/AlexConway2/machine-learning-tokyo-deep-neural-networks-for-video-numberboost)
+[<p align="left"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/numberboost.png" width="600"></p>](https://www.slideshare.net/AlexConway2/machine-learning-tokyo-deep-neural-networks-for-video-numberboost)
 
 ## Beyond Supervised Driving by Adrien Gaidon, Toyota Research Institute
 -- TALK --
@@ -20,4 +20,4 @@ Crowd-sourced steering does not sound as appealing as automated driving. We need
 Adrien Gaidon is the Manager of the Machine Learning team and a Senior Research Scientist at the Toyota Research Institute (TRI) in Los Altos, CA, USA, working on open problems in world-scale learning for autonomous driving. He received his PhD from Microsoft Research - Inria Paris in 2012 and has over a decade of experience in academic and industrial Computer Vision, with over 30 publications, top entries in international Computer Vision competitions, multiple best reviewer awards, international press coverage for his work on Deep Learning with simulation, and was a guest editor for the International Journal of Computer Vision. You can find him on LinkedIn (https://www.linkedin.com/in/adrien-gaidon-63ab2358/) and Twitter (www.twitter.com/adnothing).
 
 
-[<p align="left"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/tri-ad.png" width="600"></p>](https://www.youtube.com/watch?v=mzNQp2t8j10)
+[<p align="left"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/tri-ad.png" width="600"></p>](https://www.youtube.com/watch?v=mzNQp2t8j10)
