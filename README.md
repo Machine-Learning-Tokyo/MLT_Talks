@@ -1,6 +1,30 @@
 # MLT Talks
 ## Slides, videos and other resources from MLT Talks.
 
+- Current capabilties, limitations and future directions of deep learning, **François Chollet, Creator of Keras** (March 2019)
+- Deep Neural Networks for Video Applications,  **Alex Conway, NumberBoost** (March 2019)
+- Beyond Supervised Driving by Adrien Gaidon, **Toyota Research Institute** (March 2019)
+ 
+ 
+##  Current capabilties, limitations and future directions of deep learning, François Chollet, Creator of Keras
+
+-- TALK --
+Deep learning has had amazing successes in recent years. But can it lead to Strong AI? The goal of this talk is to zoom out a little bit -- to look at how deep learning really works, to look at its current limits, and to try to see the road ahead for AI.
+
+-- SPEAKER BIO --
+François Chollet is the Creator of Keras (keras.io), a leading deep learning API, and author of the textbook "Deep Learning with Python". He is also a machine learning researcher at Google Brain and a contributor to the TensorFlow machine learning platform.
+
+## MLT Video Recap
+[<p align="left"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/chollet_recap.png" width="600"></p>](https://www.youtube.com/watch?v=B6w4-_5lcUA)
+
+## Full talk
+[<p align="left"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/chollet_talk.png" width="600"></p>](https://www.youtube.com/watch?v=BH4ItyTVMEs&t=2074s)
+
+## Slides
+[<p align="left"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/chollet.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/Francois_Chollet.pdf)
+
+Slides https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/Francois_Chollet.pdf
+
 ## Deep Neural Networks for Video Applications with Alex Conway, NumberBoost
 -- TALK --
 Most CCTV video cameras exist as a sort of time machine for insurance purposes. Deep neural networks make it easy to convert video into data which can then be used to trigger real-time anomaly alerts and optimize complex business processes. Deep learning can also be used in academic research to speed up labeling of video recorded from the point of view of animals wearing go-pros. This talk will present some theory of deep neural networks for video applications as well as academic research and several applied real-world industrial examples.
