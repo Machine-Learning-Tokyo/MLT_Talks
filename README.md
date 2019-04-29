@@ -1,10 +1,25 @@
 # MLT Talks
 ## Slides, videos and other resources from MLT Talks.
 
+- Getting started with TensorFlow 2.0, **Josh Gordon, Developer Advocate at Google AI**
 - Current capabilties, limitations and future directions of deep learning, **François Chollet, Creator of Keras** (March 2019)
 - Deep Neural Networks for Video Applications,  **Alex Conway, NumberBoost** (March 2019)
 - Beyond Supervised Driving by Adrien Gaidon, **Toyota Research Institute** (March 2019)
  
+
+
+## Getting started with TensorFlow 2.0, Josh Gordon, Developer Advocate at Google AI
+
+-- TALK --
+TensorFlow 2.0 is all about ease of use. In this 45 minute talk, I'll cover best practices for beginners and experts, and point you to the latest code examples you can try for each. I'll cover the Keras Sequential, Functional, and Subclassing APIs, as well as built-in training loops, and how to write a custom training loop using a GradientTape. To wrap it up, I'll give a quick summary of a few announcements and updates from the TensorFlow Developer Summit.
+
+-- SPEAKER BIO --
+Josh Gordon is a Developer Advocate at Google AI, and also teaches Applied Deep Learning at Columbia University, and Machine Learning at Pace University. He has over a decade of machine learning experience to share. You can find him on Twitter at @random_forests.
+
+## Slides
+[<p align="left"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/josh_gordon.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/Josh_Gordon_Google_AI.pdf)
+
+
  
 ##  Current capabilties, limitations and future directions of deep learning, François Chollet, Creator of Keras
 
