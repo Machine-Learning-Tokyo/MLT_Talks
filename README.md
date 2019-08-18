@@ -2,12 +2,24 @@
 
 ## Slides, videos and other resources from MLT Talks.
 
-- Brain-Machine-Interfaces, Talk & Discussion, **Antonio Lozano, UPCT, Spain**
-- Getting started with TensorFlow 2.0, **Josh Gordon, Developer Advocate at Google AI**
+- Artificial Life, **Lana Sinapayen, Sony CSL, ELSI** (August 2019)
+- Brain-Machine-Interfaces, Talk & Discussion, **Antonio Lozano, UPCT, Spain** (July 2019)
+- Getting started with TensorFlow 2.0, **Josh Gordon, Developer Advocate at Google AI** (April 2019)
 - Current capabilties, limitations and future directions of deep learning, **François Chollet, Creator of Keras** (March 2019)
 - Deep Neural Networks for Video Applications,  **Alex Conway, NumberBoost** (March 2019)
 - Beyond Supervised Driving **Adrien Gaidon, Toyota Research Institute** (March 2019)
  
+# Artificial Life, 
+
+### Talk
+Artificial Life is a little known field spanning disciplines as diverse as Informatics, Chemistry and Robotics. Lana will give a brief overview of the field and its main research questions.
+
+### Speaker Bio
+LANA SINAPAYEN is and Artificial Life and Artificial Intelligence researcher. Her main interests are the emergence of cognitive functions such as predictive coding, and evolutionary dynamics leading to open ended systems. Artificial Life is a little known field spanning disciplines as diverse as Informatics, Chemistry and Robotics. In her talk she will give a brief overview of the field and its main research questions.
+
+[<p align="left"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/lana_alife.png" width="600"></p>](https://bit.ly/2z5orEb)
+
+
 # Brain-Machine-Interfaces, Talk & Discussion
 
 ### Talk
