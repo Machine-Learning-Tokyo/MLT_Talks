@@ -17,7 +17,7 @@ Artificial Life is a little known field spanning disciplines as diverse as Infor
 ### Speaker Bio
 LANA SINAPAYEN is and Artificial Life and Artificial Intelligence researcher. Her main interests are the emergence of cognitive functions such as predictive coding, and evolutionary dynamics leading to open ended systems. Artificial Life is a little known field spanning disciplines as diverse as Informatics, Chemistry and Robotics. In her talk she will give a brief overview of the field and its main research questions.
 
-[<p align="left"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/lana_alife.png" width="600"></p>](https://bit.ly/2z5orEb)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/lana_alife.png" width="600"></p>](https://bit.ly/2z5orEb)
 
 
 # Brain-Machine-Interfaces, Talk & Discussion
@@ -31,7 +31,7 @@ ANTONIO LOZANO is an Industrial Engineer, and Intel's Software Innovator. He's p
 - [Development of a Cortical Visual Neuroprosthesis for the Blind (CORTIVIS project)](https://clinicaltrials.gov/ct2/show/NCT02983370)
 - [Biomedical Neuroengineering Research Group, UMH, Spain](https://nbio.umh.es/)
 
-[<p align="left"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/antonio_lozano.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/MLT_Antonio.pdf)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/antonio_lozano.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/MLT_Antonio.pdf)
 
 
 # Getting started with TensorFlow 2.0, Josh Gordon, Developer Advocate at Google AI
@@ -43,7 +43,7 @@ TensorFlow 2.0 is all about ease of use. In this 45 minute talk, I'll cover best
 Josh Gordon is a Developer Advocate at Google AI, and also teaches Applied Deep Learning at Columbia University, and Machine Learning at Pace University. He has over a decade of machine learning experience to share. You can find him on Twitter at @random_forests.
 
 ### Slides
-[<p align="left"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/josh_gordon.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/Josh_Gordon_Google_AI.pdf)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/josh_gordon.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/Josh_Gordon_Google_AI.pdf)
 
 
  
@@ -56,13 +56,13 @@ Deep learning has had amazing successes in recent years. But can it lead to Stro
 François Chollet is the Creator of Keras (keras.io), a leading deep learning API, and author of the textbook "Deep Learning with Python". He is also a machine learning researcher at Google Brain and a contributor to the TensorFlow machine learning platform.
 
 ### MLT Video Recap
-[<p align="left"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/chollet_recap.png" width="600"></p>](https://www.youtube.com/watch?v=B6w4-_5lcUA)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/chollet_recap.png" width="600"></p>](https://www.youtube.com/watch?v=B6w4-_5lcUA)
 
 ### Full talk
-[<p align="left"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/chollet_talk.png" width="600"></p>](https://www.youtube.com/watch?v=BH4ItyTVMEs&t=2074s)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/chollet_talk.png" width="600"></p>](https://www.youtube.com/watch?v=BH4ItyTVMEs&t=2074s)
 
 ### Slides
-[<p align="left"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/chollet.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/Francois_Chollet.pdf)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/chollet.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/Francois_Chollet.pdf)
 
 Slides https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/Francois_Chollet.pdf
 
@@ -76,7 +76,7 @@ Alex is the Founder and Head of Data Science at NumberBoost, a startup based in 
 
 ### Slides
 
-[<p align="left"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/numberboost.png" width="600"></p>](https://www.slideshare.net/AlexConway2/machine-learning-tokyo-deep-neural-networks-for-video-numberboost)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/numberboost.png" width="600"></p>](https://www.slideshare.net/AlexConway2/machine-learning-tokyo-deep-neural-networks-for-video-numberboost)
 
 # Beyond Supervised Driving by Adrien Gaidon, Toyota Research Institute
 
@@ -87,4 +87,4 @@ Crowd-sourced steering does not sound as appealing as automated driving. We need
 Adrien Gaidon is the Manager of the Machine Learning team and a Senior Research Scientist at the Toyota Research Institute (TRI) in Los Altos, CA, USA, working on open problems in world-scale learning for autonomous driving. He received his PhD from Microsoft Research - Inria Paris in 2012 and has over a decade of experience in academic and industrial Computer Vision, with over 30 publications, top entries in international Computer Vision competitions, multiple best reviewer awards, international press coverage for his work on Deep Learning with simulation, and was a guest editor for the International Journal of Computer Vision. You can find him on LinkedIn (https://www.linkedin.com/in/adrien-gaidon-63ab2358/) and Twitter (www.twitter.com/adnothing).
 
 
-[<p align="left"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/tri-ad.png" width="600"></p>](https://www.youtube.com/watch?v=mzNQp2t8j10)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/tri-ad.png" width="600"></p>](https://www.youtube.com/watch?v=mzNQp2t8j10)
