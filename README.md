@@ -19,7 +19,7 @@ Keith covers recent innovations in machine translation published by the team beh
 ### Speaker Bio
 Keith Stevens has been on Google Translate for nearly years 7 years. His primary focus has been finding or creating the best data possible for improving Google Translate. This work has ranged from Crowdsourcing systems to neural based data cleaning techniques and automated parallel data mining.
 
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/keith_stevens.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/keith_stevens.pdf)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/keith%20stevens.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/keith%20stevens.pdf)
 
 # Artificial Life, Lana Sinapayen (Sony CSL, ELSI)
 
