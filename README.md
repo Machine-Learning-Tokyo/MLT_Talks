@@ -20,7 +20,7 @@ Data and its analysis create value by assisting humans in the decision making pr
 ### Speaker Bio
 Rei Akaishi obtained his PhD from Graduate School of Medicine, the University of Tokyo. He did his post-doctoral jobs in University of Oxford, Tokyo Metropolitan Institute of Medical Science, University of Rochester, Center for Information and Neural Networks and conducted research projects on decision making of humans and animals. He is currently a Unit Leader in RIKEN Center for Brain Science.
 
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/rei_akaishi.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/keith%20stevens.pdf)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/rei_akaishi.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/Decision(Neuro)Science.pdf)
 
 #  The many machine learning ways of Google Translate, Keith Stevens (Google Japan)
 
