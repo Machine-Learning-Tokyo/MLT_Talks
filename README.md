@@ -2,6 +2,7 @@
 
 ## Slides, videos and other resources from MLT Talks.
 
+- Decision (Neuro)Science in Society, **Rei Akaishi, RIKEN Center for Brain Science** (September 2019)
 - The many machine learning ways of Google Translate, **Keith Stevens, Google Japan** (August 2019)
 - Artificial Life, **Lana Sinapayen, Sony CSL, ELSI** (August 2019)
 - Brain-Machine-Interfaces, Talk & Discussion, **Antonio Lozano, UPCT, Spain** (July 2019)
@@ -10,7 +11,17 @@
 - Deep Neural Networks for Video Applications,  **Alex Conway, NumberBoost** (March 2019)
 - Beyond Supervised Driving **Adrien Gaidon, Toyota Research Institute** (March 2019)
  
- 
+
+# Decision (Neuro)Science in Society, Rei Akaishi (RIKEN Center for Brain Science)
+
+### Talk
+Data and its analysis create value by assisting humans in the decision making process. The mergence of decision science and data science opens new perspectives and opportunities for research and industry. In this talk Rei Akaishi gives an introduction to decision neuroscience and behavioral economics and discusses the synthesis of decision science and data science with the audience.
+
+### Speaker Bio
+Rei Akaishi obtained his PhD from Graduate School of Medicine, the University of Tokyo. He did his post-doctoral jobs in University of Oxford, Tokyo Metropolitan Institute of Medical Science, University of Rochester, Center for Information and Neural Networks and conducted research projects on decision making of humans and animals. He is currently a Unit Leader in RIKEN Center for Brain Science.
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/rei_akaishi.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/keith%20stevens.pdf)
+
 #  The many machine learning ways of Google Translate, Keith Stevens (Google Japan)
 
 ### Talk
