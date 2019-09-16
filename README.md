@@ -2,6 +2,7 @@
 
 ## Slides, videos and other resources from MLT Talks.
 
+- Augmented Reality and Artificial Intelligence, **Mark Billinghurst, School of Information Technology and Mathematical Sciences, University of South Australia** (September 2019)
 - Decision (Neuro)Science in Society, **Rei Akaishi, RIKEN Center for Brain Science** (September 2019)
 - The many machine learning ways of Google Translate, **Keith Stevens, Google Japan** (August 2019)
 - Artificial Life, **Lana Sinapayen, Sony CSL, ELSI** (August 2019)
@@ -11,6 +12,10 @@
 - Deep Neural Networks for Video Applications,  **Alex Conway, NumberBoost** (March 2019)
 - Beyond Supervised Driving **Adrien Gaidon, Toyota Research Institute** (March 2019)
  
+
+# Augmented Reality and Artificial Intelligence, Mark Billinghurst (School of Information Technology and Mathematical Sciences, University of South Australia)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/billinghurst.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/Mark_Billinghurst.pdf)
 
 # Decision (Neuro)Science in Society, Rei Akaishi (RIKEN Center for Brain Science)
 
