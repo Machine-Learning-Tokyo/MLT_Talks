@@ -2,6 +2,7 @@
 
 ## Slides, videos and other resources from MLT Talks.
 
+- Creating a Chatbot from Scratch, **Chris Gerpheide, Bespoke Inc.** (September 2019)
 - Augmented Reality and Artificial Intelligence, **Mark Billinghurst, School of Information Technology and Mathematical Sciences, University of South Australia** (September 2019)
 - Decision (Neuro)Science in Society, **Rei Akaishi, RIKEN Center for Brain Science** (September 2019)
 - The many machine learning ways of Google Translate, **Keith Stevens, Google Japan** (August 2019)
@@ -12,6 +13,16 @@
 - Deep Neural Networks for Video Applications,  **Alex Conway, NumberBoost** (March 2019)
 - Beyond Supervised Driving **Adrien Gaidon, Toyota Research Institute** (March 2019)
  
+
+# Creating a Chatbot from Scratch, Chris Gerpheide (Bespoke Inc)
+
+### Talk
+Ever wondered how chatbots work? Chris Gerpheide is leading the engineering team at Bespoke, the creators of Bebot, a chatbot for hospitality and tourism in Japan. Bespoke develops all of their technology in house; during the workshop, Chris will show you some simple machine learning and natural language processing techniques to create the guts of a basic chatbot from scratch. This is an interactive workshop, where each participant can create their own simple chatbot backend in Python using their own laptops.
+
+### Speaker Bio
+Chris Gerpheide leads the engineering team at Bespoke Inc. Before joining Bespoke, she was engineering manager at Amazon Web Services. In her free time, she enjoys learning Japanese, hiking, and teaching children programming.
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/chatbot.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/bespoke_chatbot.pdf)
 
 # Augmented Reality and Artificial Intelligence, Mark Billinghurst (School of Information Technology and Mathematical Sciences, University of South Australia)
 
