@@ -23,9 +23,6 @@ Starting with an introduction to the Deep Learning framework Chainer, Crissman w
 ### Speaker Bio
 Crissman has worked at Preferred Networks on the Chainer team for over two years, focusing on improving the documentation for Chainer and giving presentations on Chainer at Open Data Science Conferences, Euro SciPy, PyCon, GTC, and other venues. His ODSC West workshop on Chainer was selected as one of the top 10 workshops for learning Machine Learning.
 
-### [Colab notebook](bit.ly/mlt-workshop)
-### [Presentation slides](https://docs.google.com/presentation/d/1lHYsoyXhq4B_lAPTA3yAhJlhmtbSeTjTFMRQjGWQO9o/edit#slide=id.g60c66c8c96_0_363)
-
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/pfn.png" width="600"></p>](https://docs.google.com/presentation/d/1lHYsoyXhq4B_lAPTA3yAhJlhmtbSeTjTFMRQjGWQO9o/edit#slide=id.g60c66c8c96_0_363)
 
 
