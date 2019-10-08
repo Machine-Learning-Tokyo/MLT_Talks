@@ -2,6 +2,7 @@
 
 ## Slides, videos and other resources from MLT Talks.
 
+- Python tools for Deep Learning--Chainer, CuPy, and Optuna, **Crissman Loomis, Engineer / Business Development, Preferred Networks, Inc.** (September 2019)
 - Creating a Chatbot from Scratch, **Chris Gerpheide, Bespoke Inc.** (September 2019)
 - Augmented Reality and Artificial Intelligence, **Mark Billinghurst, School of Information Technology and Mathematical Sciences, University of South Australia** (September 2019)
 - Decision (Neuro)Science in Society, **Rei Akaishi, RIKEN Center for Brain Science** (September 2019)
@@ -13,6 +14,18 @@
 - Deep Neural Networks for Video Applications,  **Alex Conway, NumberBoost** (March 2019)
 - Beyond Supervised Driving **Adrien Gaidon, Toyota Research Institute** (March 2019)
  
+
+# Python tools for Deep Learning--Chainer, CuPy, and Optuna, Crissman Loomis, Preferred Networks, Inc.
+
+### Talk
+Starting with an introduction to the Deep Learning framework Chainer, Crissman will present how to structure basic Deep Learning models. Also covered will be CuPy, a NumPy-like API for calculations on NVIDIA GPUS, and Optuna, a hyper parameter optimization library. Attendees will be able to do hands-on work using Google Colab and to understand the uses and benefits of all three open source projects. https://preferred.jp/en/
+
+### Speaker Bio
+Crissman has worked at Preferred Networks on the Chainer team for over two years, focusing on improving the documentation for Chainer and giving presentations on Chainer at Open Data Science Conferences, Euro SciPy, PyCon, GTC, and other venues. His ODSC West workshop on Chainer was selected as one of the top 10 workshops for learning Machine Learning.
+
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/pfn.png" width="600"></p>](https://docs.google.com/presentation/d/1lHYsoyXhq4B_lAPTA3yAhJlhmtbSeTjTFMRQjGWQO9o/edit#slide=id.g60c66c8c96_0_363)
+
 
 # Creating a Chatbot from Scratch, Chris Gerpheide (Bespoke Inc)
 
