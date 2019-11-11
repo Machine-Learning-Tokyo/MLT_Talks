@@ -16,7 +16,7 @@
 - Beyond Supervised Driving **Adrien Gaidon, Toyota Research Institute** (March 2019)
  
 
-# 'Scikit-project': How open source is empowering open science – and vice versa, Nathan Shammah, Postdoctoral Researcher (RIKEN)
+# 'Scikit-project': How open source is empowering open science – and vice versa, Nathan Shammah (RIKEN)
 
 ### Talk 
 Nathan shows how open-source pipelines are accelerating scientific discovery, by empowering not only reproducibility of research results but also generalizability of methods. He addresses the rise of open source in scientific research in quantum physics and quantum information and introduce 'scikit-project' a cookbook with best practices for (data) scientists.
@@ -24,7 +24,7 @@ Nathan shows how open-source pipelines are accelerating scientific discovery, by
 ### Speaker Bio
 Nathan Shammah is a Postdoctoral Research Scientist at RIKEN, Japan’s national lab, in the Quantum Physics Theory Lab, where he investigates the dynamics of open quantum systems. Lead developer of QuTiP, the quantum toolbox in Python, he also writes the quantum tech newsletter, https://medium.com/quantum-tech.
 
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/nathan-open-source-science.png" width="600"></p>]https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/Nathan_Shammah.pdf)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/nathan-open-source-science.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/Nathan_Shammah.pdf)
 
 
 # Python tools for Deep Learning--Chainer, CuPy, and Optuna, Crissman Loomis (Preferred Networks, Inc.)
