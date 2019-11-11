@@ -2,6 +2,7 @@
 
 ## Slides, videos and other resources from MLT Talks.
 
+- 'Scikit-project': How open source is empowering open science – and vice versa, **Nathan Shammah, Postdoctoral Researcher, Theoretical Quantum Physics Laboratory, RIKEN** (November 2019)
 - Python tools for Deep Learning--Chainer, CuPy, and Optuna, **Crissman Loomis, Engineer / Business Development, Preferred Networks, Inc.** (September 2019)
 - Creating a Chatbot from Scratch, **Chris Gerpheide, Bespoke Inc.** (September 2019)
 - Augmented Reality and Artificial Intelligence, **Mark Billinghurst, School of Information Technology and Mathematical Sciences, University of South Australia** (September 2019)
@@ -15,7 +16,18 @@
 - Beyond Supervised Driving **Adrien Gaidon, Toyota Research Institute** (March 2019)
  
 
-# Python tools for Deep Learning--Chainer, CuPy, and Optuna, Crissman Loomis, Preferred Networks, Inc.
+# 'Scikit-project': How open source is empowering open science – and vice versa, Nathan Shammah, Postdoctoral Researcher (RIKEN)
+
+### Talk 
+Nathan shows how open-source pipelines are accelerating scientific discovery, by empowering not only reproducibility of research results but also generalizability of methods. He addresses the rise of open source in scientific research in quantum physics and quantum information and introduce 'scikit-project' a cookbook with best practices for (data) scientists.
+
+### Speaker Bio
+Nathan Shammah is a Postdoctoral Research Scientist at RIKEN, Japan’s national lab, in the Quantum Physics Theory Lab, where he investigates the dynamics of open quantum systems. Lead developer of QuTiP, the quantum toolbox in Python, he also writes the quantum tech newsletter, https://medium.com/quantum-tech.
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/nathan-open-source-science.png" width="600"></p>]https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/Nathan_Shammah.pdf)
+
+
+# Python tools for Deep Learning--Chainer, CuPy, and Optuna, Crissman Loomis (Preferred Networks, Inc.)
 
 ### Talk
 Starting with an introduction to the Deep Learning framework Chainer, Crissman will present how to structure basic Deep Learning models. Also covered will be CuPy, a NumPy-like API for calculations on NVIDIA GPUS, and Optuna, a hyper parameter optimization library. Attendees will be able to do hands-on work using Google Colab and to understand the uses and benefits of all three open source projects. https://preferred.jp/en/
