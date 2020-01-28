@@ -143,3 +143,12 @@ Adrien Gaidon is the Manager of the Machine Learning team and a Senior Research 
 
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/tri-ad.png" width="600"></p>](https://www.youtube.com/watch?v=mzNQp2t8j10)
+
+# Recommendation in Production
+
+### Talk
+We will discuss about an entire life cycle of the deployment of Recommendation Systems in production environments. From data to algorithms: We will look at building data pipelines and architectures that will allow us to experiment and deploy in production in an easy and fast way. (https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/Starfish.pdf)
+
+
+### Speaker Bio
+Shripad Deshmukh is Senior Engineer in Data Science Team at U-Next japan working on recommendaiton engine and production system of recommendaiton system. You can find hime on LinkedIN (https://www.linkedin.com/in/shripad-deshmukh-49062016/).
