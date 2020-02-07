@@ -2,7 +2,7 @@
 
 ## Slides, videos and other resources from MLT Talks.
 
-- ['Scikit-project': How open source is empowering open science – and vice versa, **Nathan Shammah, Postdoctoral Researcher, Theoretical Quantum Physics Laboratory, RIKEN** (November 2019)](nathan-shammah-(RIKEN))
+- ['Scikit-project': How open source is empowering open science – and vice versa, **Nathan Shammah, Postdoctoral Researcher, Theoretical Quantum Physics Laboratory, RIKEN** (November 2019)](nathan-shammah)
 - [Python tools for Deep Learning--Chainer, CuPy, and Optuna, **Crissman Loomis, Engineer / Business Development, Preferred Networks, Inc.** (September 2019)](crissman-loomis-(preferred-networks,-inc.))
 - [Creating a Chatbot from Scratch, **Chris Gerpheide, Bespoke Inc.** (September 2019)](chris-gerpheide-(bespoke-inc.))
 - [Augmented Reality and Artificial Intelligence, **Mark Billinghurst, School of Information Technology and Mathematical Sciences, University of South Australia** (September 2019)](mark-billinghurst-(university-of-south-australia))
@@ -16,7 +16,7 @@
 - [Beyond Supervised Driving **Adrien Gaidon, Toyota Research Institute** (March 2019)](adrien-daidon,-(TRI))
  
 
-## Nathan Shammah (RIKEN)
+## Nathan Shammah
 ### 'Scikit-project': How open source is empowering open science – and vice versa
 
 ### Talk 
