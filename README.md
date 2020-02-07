@@ -16,7 +16,7 @@
 - [Beyond Supervised Driving **Adrien Gaidon, Toyota Research Institute** (March 2019)](adrien-daidon,-(TRI))
  
 
-## Nathan Shammah
+### Nathan Shammah
 ### 'Scikit-project': How open source is empowering open science – and vice versa
 
 ### Talk 
