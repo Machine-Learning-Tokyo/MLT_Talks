@@ -2,21 +2,22 @@
 
 ## Slides, videos and other resources from MLT Talks.
 
-- 'Scikit-project': How open source is empowering open science – and vice versa, **Nathan Shammah, Postdoctoral Researcher, Theoretical Quantum Physics Laboratory, RIKEN** (November 2019)
-- Python tools for Deep Learning--Chainer, CuPy, and Optuna, **Crissman Loomis, Engineer / Business Development, Preferred Networks, Inc.** (September 2019)
-- Creating a Chatbot from Scratch, **Chris Gerpheide, Bespoke Inc.** (September 2019)
-- Augmented Reality and Artificial Intelligence, **Mark Billinghurst, School of Information Technology and Mathematical Sciences, University of South Australia** (September 2019)
-- Decision (Neuro)Science in Society, **Rei Akaishi, RIKEN Center for Brain Science** (September 2019)
-- The many machine learning ways of Google Translate, **Keith Stevens, Google Japan** (August 2019)
-- Artificial Life, **Lana Sinapayen, Sony CSL, ELSI** (August 2019)
-- Brain-Machine-Interfaces, Talk & Discussion, **Antonio Lozano, UPCT, Spain** (July 2019)
-- Getting started with TensorFlow 2.0, **Josh Gordon, Developer Advocate at Google AI** (April 2019)
-- Current capabilties, limitations and future directions of deep learning, **François Chollet, Creator of Keras** (March 2019)
-- Deep Neural Networks for Video Applications,  **Alex Conway, NumberBoost** (March 2019)
-- Beyond Supervised Driving **Adrien Gaidon, Toyota Research Institute** (March 2019)
+- ['Scikit-project': How open source is empowering open science – and vice versa, **Nathan Shammah, Postdoctoral Researcher, Theoretical Quantum Physics Laboratory, RIKEN** (November 2019)](nathan-shammah-(RIKEN))
+- [Python tools for Deep Learning--Chainer, CuPy, and Optuna, **Crissman Loomis, Engineer / Business Development, Preferred Networks, Inc.** (September 2019)](crissman-loomis-(preferred-networks,-inc.))
+- [Creating a Chatbot from Scratch, **Chris Gerpheide, Bespoke Inc.** (September 2019)](chris-gerpheide-(bespoke-inc.))
+- [Augmented Reality and Artificial Intelligence, **Mark Billinghurst, School of Information Technology and Mathematical Sciences, University of South Australia** (September 2019)](mark-billinghurst-(university-of-south-australia))
+- [Decision (Neuro)Science in Society, **Rei Akaishi, RIKEN Center for Brain Science – Toyota Collaboration Center** (September 2019)](rei-akaishi-(RIKEN-CBS))
+- [The many machine learning ways of Google Translate, **Keith Stevens, Google Japan** (August 2019)](keith-stevens-(google-japan)
+- [Artificial Life, **Lana Sinapayen, Sony CSL, ELSI** (August 2019)](lana-sinapayen-(sony-CSL,-ELSI))
+- [Brain-Machine-Interfaces, Talk & Discussion, **Antonio Lozano, UPCT, Spain** (July 2019)](antonio-lozano-(UPCT-spain))
+- [Getting started with TensorFlow 2.0, **Josh Gordon, Developer Advocate at Google AI** (April 2019)](josh-gordon (google-AI))
+- [Current capabilties, limitations and future directions of deep learning, **François Chollet, Creator of Keras** (March 2019)](françois-chollet-(creator-of-keras,-google))
+- [Deep Neural Networks for Video Applications,  **Alex Conway, NumberBoost** (March 2019)](alex-conway-(NumberBoost))
+- [Beyond Supervised Driving **Adrien Gaidon, Toyota Research Institute** (March 2019)](adrien-daidon,-(TRI))
  
 
-# 'Scikit-project': How open source is empowering open science – and vice versa, Nathan Shammah (RIKEN)
+## Nathan Shammah (RIKEN)
+### 'Scikit-project': How open source is empowering open science – and vice versa
 
 ### Talk 
 Nathan shows how open-source pipelines are accelerating scientific discovery, by empowering not only reproducibility of research results but also generalizability of methods. He addresses the rise of open source in scientific research in quantum physics and quantum information and introduce 'scikit-project' a cookbook with best practices for (data) scientists.
@@ -27,7 +28,8 @@ Nathan Shammah is a Postdoctoral Research Scientist at RIKEN, Japan’s national
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/nathan-open-source-science.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/Nathan_Shammah.pdf)
 
 
-# Python tools for Deep Learning--Chainer, CuPy, and Optuna, Crissman Loomis (Preferred Networks, Inc.)
+## Crissman Loomis (Preferred Networks, Inc.)
+### Python tools for Deep Learning--Chainer, CuPy, and Optuna
 
 ### Talk
 Starting with an introduction to the Deep Learning framework Chainer, Crissman will present how to structure basic Deep Learning models. Also covered will be CuPy, a NumPy-like API for calculations on NVIDIA GPUS, and Optuna, a hyper parameter optimization library. Attendees will be able to do hands-on work using Google Colab and to understand the uses and benefits of all three open source projects. https://preferred.jp/en/
@@ -38,7 +40,8 @@ Crissman has worked at Preferred Networks on the Chainer team for over two years
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/pfn.png" width="600"></p>](https://docs.google.com/presentation/d/1lHYsoyXhq4B_lAPTA3yAhJlhmtbSeTjTFMRQjGWQO9o/edit#slide=id.g60c66c8c96_0_363)
 
 
-# Creating a Chatbot from Scratch, Chris Gerpheide (Bespoke Inc)
+## Chris Gerpheide (Bespoke Inc.)
+### Creating a Chatbot from Scratch
 
 ### Talk
 Ever wondered how chatbots work? Chris Gerpheide is leading the engineering team at Bespoke, the creators of Bebot, a chatbot for hospitality and tourism in Japan. Bespoke develops all of their technology in house; during the workshop, Chris will show you some simple machine learning and natural language processing techniques to create the guts of a basic chatbot from scratch. This is an interactive workshop, where each participant can create their own simple chatbot backend in Python using their own laptops.
@@ -48,11 +51,13 @@ Chris Gerpheide leads the engineering team at Bespoke Inc. Before joining Bespok
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/chatbot.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/bespoke_chatbot.pdf)
 
-# Augmented Reality and Artificial Intelligence, Mark Billinghurst (School of Information Technology and Mathematical Sciences, University of South Australia)
+## Mark Billinghurst (University of South Australia)
+### Augmented Reality and Artificial Intelligence
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/billinghurst.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/Mark_Billinghurst.pdf)
 
-# Decision (Neuro)Science in Society, Rei Akaishi (RIKEN Center for Brain Science)
+## Rei Akaishi (RIKEN CBS)
+### Decision (Neuro)Science in Society
 
 ### Talk
 Data and its analysis create value by assisting humans in the decision making process. The mergence of decision science and data science opens new perspectives and opportunities for research and industry. In this talk Rei Akaishi gives an introduction to decision neuroscience and behavioral economics and discusses the synthesis of decision science and data science with the audience.
@@ -62,7 +67,8 @@ Rei Akaishi obtained his PhD from Graduate School of Medicine, the University of
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/rei_akaishi.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/Decision(Neuro)Science.pdf)
 
-#  The many machine learning ways of Google Translate, Keith Stevens (Google Japan)
+## Keith Stevens (Google Japan)
+### The many machine learning ways of Google Translate
 
 ### Talk
 Keith covers recent innovations in machine translation published by the team behind Google Translate. Learn how these models are getting bigger, how they're solving more complex tasks like simultaneous translation, and how embedding methods can be used to find and clean data. He goes into depth about what problem each of these efforts are trying to solve, hear what new approaches are being used, and detail lessons learned while working on these challenges.
@@ -72,7 +78,8 @@ Keith Stevens has been on Google Translate for nearly years 7 years. His primary
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/keith%20stevens.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/keith%20stevens.pdf)
 
-# Artificial Life, Lana Sinapayen (Sony CSL, ELSI)
+## Lana Sinapayen (Sony CSL, ELSI)
+### Artificial Life
 
 ### Talk
 Artificial Life is a little known field spanning disciplines as diverse as Informatics, Chemistry and Robotics. Lana will give a brief overview of the field and its main research questions.
@@ -83,7 +90,8 @@ LANA SINAPAYEN is and Artificial Life and Artificial Intelligence researcher. He
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/lana_alife.png" width="600"></p>](https://bit.ly/2z5orEb)
 
 
-# Brain-Machine-Interfaces, Antonio Lozano (UPCT Spain)
+## Antonio Lozano (UPCT Spain)
+### Brain-Machine-Interfaces
 
 ### Talk
 Neural engineering and AI are making rapid progress, and new opportunities for synergy arise. We are facing the challenge of creating neuroprosthesis designed to interface with the visual cortex in order to restore a limited but useful visual sense to these blind patients. This talk will look at neural engineering, some of the advances that highly multidisciplinary teams of scientists and engineers are making in different parts of the world, including Neuralink's new brain interfaces, and some of the future challenges that we face in order to improve people's lives. Antonio will also introduce a new framework -NeuroLight- based on Convolutional Neural Networks, created to encode visual information and transmit this it in a meaningful way to the human brain through a neural prosthesis.
@@ -97,7 +105,8 @@ ANTONIO LOZANO is an Industrial Engineer, and Intel's Software Innovator. He's p
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/antonio_lozano.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/MLT_Antonio.pdf)
 
 
-# Getting started with TensorFlow 2.0, Josh Gordon (Google AI)
+## Josh Gordon (Google AI)
+### Getting started with TensorFlow 2.0
 
 ### Talk
 TensorFlow 2.0 is all about ease of use. In this 45 minute talk, I'll cover best practices for beginners and experts, and point you to the latest code examples you can try for each. I'll cover the Keras Sequential, Functional, and Subclassing APIs, as well as built-in training loops, and how to write a custom training loop using a GradientTape. To wrap it up, I'll give a quick summary of a few announcements and updates from the TensorFlow Developer Summit.
@@ -109,7 +118,8 @@ Josh Gordon is a Developer Advocate at Google AI, and also teaches Applied Deep 
 
 
  
-# Current capabilties, limitations and future directions of deep learning, François Chollet (Creator of Keras, Google)
+## François Chollet (Creator of Keras, Google)
+### Current capabilties, limitations and future directions of deep learning
 
 ### Talk
 Deep learning has had amazing successes in recent years. But can it lead to Strong AI? The goal of this talk is to zoom out a little bit -- to look at how deep learning really works, to look at its current limits, and to try to see the road ahead for AI.
@@ -122,7 +132,8 @@ François Chollet is the Creator of Keras (keras.io), a leading deep learning AP
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/chollet.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/Francois_Chollet.pdf)
 
 
-# Deep Neural Networks for Video Applications, Alex Conway (NumberBoost)
+## Alex Conway (NumberBoost)
+### Deep Neural Networks for Video Applications
 
 ### Talk
 Most CCTV video cameras exist as a sort of time machine for insurance purposes. Deep neural networks make it easy to convert video into data which can then be used to trigger real-time anomaly alerts and optimize complex business processes. Deep learning can also be used in academic research to speed up labeling of video recorded from the point of view of animals wearing go-pros. This talk will present some theory of deep neural networks for video applications as well as academic research and several applied real-world industrial examples.
@@ -133,7 +144,8 @@ Alex is the Founder and Head of Data Science at NumberBoost, a startup based in 
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/numberboost.png" width="600"></p>](https://www.slideshare.net/AlexConway2/machine-learning-tokyo-deep-neural-networks-for-video-numberboost)
 
-# Beyond Supervised Driving, Adrien Gaidon (Toyota Research Institute)
+## Adrien Gaidon (TRI)
+### Beyond Supervised Driving
 
 ### Talk
 Crowd-sourced steering does not sound as appealing as automated driving. We need to go beyond supervised learning for automated driving, including for computer vision problems seeing great progress with strong supervision today. First, we will motivate why this is required for long-term large-scale autonomous robots. Second, we will discuss recent state-of-the-art results obtained in the ML team at Toyota Research Institute (TRI) for unsupervised domain adaptation from simulation and self-supervised depth and pose prediction from monocular imagery. Finally, I will talk about how we actually scale to large datasets using our cloud infrastructure and distributed deep learning.
