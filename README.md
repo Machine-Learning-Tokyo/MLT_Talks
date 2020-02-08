@@ -2,18 +2,18 @@
 
 # Slides, videos and other resources from MLT Talks.
 
-1. ['Scikit-project': How open source is empowering open science – and vice versa, **Nathan Shammah, Postdoctoral Researcher, Theoretical Quantum Physics Laboratory, RIKEN** (November 2019)](nathan-shammah-(RIKEN))
-- [Python tools for Deep Learning--Chainer, CuPy, and Optuna, **Crissman Loomis, Engineer / Business Development, Preferred Networks, Inc.** (September 2019)](crissman-loomis-(preferred-networks,-inc.))
-- [Creating a Chatbot from Scratch, **Chris Gerpheide, Bespoke Inc.** (September 2019)](chris-gerpheide-(bespoke-inc.))
-- [Augmented Reality and Artificial Intelligence, **Mark Billinghurst, School of Information Technology and Mathematical Sciences, University of South Australia** (September 2019)](mark-billinghurst-(university-of-south-australia))
-- [Decision (Neuro)Science in Society, **Rei Akaishi, RIKEN Center for Brain Science – Toyota Collaboration Center** (September 2019)](rei-akaishi-(RIKEN-CBS))
-- [The many machine learning ways of Google Translate, **Keith Stevens, Google Japan** (August 2019)](keith-stevens-(google-japan)
-- [Artificial Life, **Lana Sinapayen, Sony CSL, ELSI** (August 2019)](lana-sinapayen-(sony-CSL,-ELSI))
-- [Brain-Machine-Interfaces, Talk & Discussion, **Antonio Lozano, UPCT, Spain** (July 2019)](antonio-lozano-(UPCT-spain))
-- [Getting started with TensorFlow 2.0, **Josh Gordon, Developer Advocate at Google AI** (April 2019)](josh-gordon (google-AI))
-- [Current capabilties, limitations and future directions of deep learning, **François Chollet, Creator of Keras** (March 2019)](françois-chollet-(creator-of-keras,-google))
-- [Deep Neural Networks for Video Applications,  **Alex Conway, NumberBoost** (March 2019)](alex-conway-(NumberBoost))
-- [Beyond Supervised Driving **Adrien Gaidon, Toyota Research Institute** (March 2019)](adrien-daidon,-(TRI))
+- 'Scikit-project': How open source is empowering open science – and vice versa, **Nathan Shammah, Postdoctoral Researcher, Theoretical Quantum Physics Laboratory, RIKEN** (November 2019)
+- Python tools for Deep Learning--Chainer, CuPy, and Optuna, **Crissman Loomis, Engineer / Business Development, Preferred Networks, Inc.** (September 2019)
+- Creating a Chatbot from Scratch, **Chris Gerpheide, Bespoke Inc.** (September 2019)
+- Augmented Reality and Artificial Intelligence, **Mark Billinghurst, School of Information Technology and Mathematical Sciences, University of South Australia** (September 2019)
+- Decision (Neuro)Science in Society, **Rei Akaishi, RIKEN Center for Brain Science – Toyota Collaboration Center** (September 2019)
+- The many machine learning ways of Google Translate, **Keith Stevens, Google Japan** (August 2019)
+- Artificial Life, **Lana Sinapayen, Sony CSL, ELSI** (August 2019)
+- Brain-Machine-Interfaces, Talk & Discussion, **Antonio Lozano, UPCT, Spain** (July 2019)
+- Getting started with TensorFlow 2.0, **Josh Gordon, Developer Advocate at Google AI** (April 2019)
+- Current capabilties, limitations and future directions of deep learning, **François Chollet, Creator of Keras** (March 2019)
+- Deep Neural Networks for Video Applications,  **Alex Conway, NumberBoost** (March 2019)
+- Beyond Supervised Driving **Adrien Gaidon, Toyota Research Institute** (March 2019)
  
 
 ## Nathan Shammah (RIKEN)
