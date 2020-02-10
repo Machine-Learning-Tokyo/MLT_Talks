@@ -2,6 +2,7 @@
 
 # Slides, videos and other resources from MLT Talks.
 
+- NLP Business Applications, **Cedric Wagrez, Gengo, Lionbridge AI** (February 2020)
 - 'Scikit-project': How open source is empowering open science – and vice versa, **Nathan Shammah, Postdoctoral Researcher, Theoretical Quantum Physics Laboratory, RIKEN** (November 2019)
 - Python tools for Deep Learning--Chainer, CuPy, and Optuna, **Crissman Loomis, Engineer / Business Development, Preferred Networks, Inc.** (September 2019)
 - Creating a Chatbot from Scratch, **Chris Gerpheide, Bespoke Inc.** (September 2019)
@@ -15,6 +16,19 @@
 - Deep Neural Networks for Video Applications,  **Alex Conway, NumberBoost** (March 2019)
 - Beyond Supervised Driving **Adrien Gaidon, Toyota Research Institute** (March 2019)
  
+
+## Cedric Wagrez, Gengo, Lionbridge AI
+
+### NLP Business Applications
+
+### Talk 
+In this talk, Cedric provided an overview of NLP technology, and explained how it is being used across a wide range of services. He showed case studies, and explained the challenges ahead, both globally and in Japan.
+
+### Speaker Bio
+Cedric has been living in Japan for over 15 years, and was appointed VP of Operations at Gengo (http://gengo.com) 2 years ago. Following Gengo's acquisition by Lionbridge, he recently took over another challenge: developing Lionbridge's AI services offering in Japan, centered around high-quality data for AI applications (https://lionbridge.ai).
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/nlp-business.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/nlp-business.pdf)
+
 
 ## Nathan Shammah (RIKEN)
 
