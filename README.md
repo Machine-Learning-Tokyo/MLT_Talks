@@ -2,6 +2,7 @@
 
 # Slides, videos and other resources from MLT Talks.
 
+- Open-source for quantum technologies, **Nathan Shammah, RIKEN** (February 2020)
 - NLP Business Applications, **Cedric Wagrez, Gengo, Lionbridge AI** (February 2020)
 - 'Scikit-project': How open source is empowering open science – and vice versa, **Nathan Shammah, Postdoctoral Researcher, Theoretical Quantum Physics Laboratory, RIKEN** (November 2019)
 - Python tools for Deep Learning--Chainer, CuPy, and Optuna, **Crissman Loomis, Engineer / Business Development, Preferred Networks, Inc.** (September 2019)
@@ -16,6 +17,19 @@
 - Deep Neural Networks for Video Applications,  **Alex Conway, NumberBoost** (March 2019)
 - Beyond Supervised Driving **Adrien Gaidon, Toyota Research Institute** (March 2019)
  
+
+## Nathan Shammah, RIKEN
+
+### Open-source for quantum technologies
+
+### Talk
+In past decades there has been considerable advancement both in theory and in experiments in research laboratories around the world. More recently, there has been an increased effort toward spinning out technology from our scientific understanding of quantum theory. The software stack interfacing with these early prototypes of quantum machines is heavily relying on the open-source paradigm. Nathan will review software and hardware trends, and give an intro to quantum information processing. He’ll speak about the quantum toolbox in Python (QuTiP), general community efforts aimed at creating a sustainable ecosystem for open-source projects and provide some examples of how QC and ML are beginning to interact with each other.
+
+### Speaker Bio
+Nathan Shammah is a Postdoctoral Research Scientist at RIKEN, Japan’s national lab, in the Quantum Physics Theory Lab, where he investigates the dynamics of open quantum systems. Lead developer of QuTiP, the quantum toolbox in Python, he also writes the quantum tech newsletter.
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/images/nathan_shammah_qc.png" width="600"></p>](https://github.com/Machine-Learning-Tokyo/MLT_Talks/blob/master/slides/nathan_shammah_qc.pdf)
+
 
 ## Cedric Wagrez, Gengo, Lionbridge AI
 
