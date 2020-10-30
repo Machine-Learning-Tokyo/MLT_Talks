@@ -3,6 +3,7 @@
 # Slides, videos and other resources from MLT Talks.
 
 - An introduction to transfer learning in NLP and HuggingFace, **Thomas Wolf, Co-Founder and CSO at HuggingFace** (October 2020)
+- Design and Testing patterns for Machine Learning, **Chris Gerpheide, CTO at Bespoke Inc.** (September 2020)
 - Open-source for quantum technologies, **Nathan Shammah, RIKEN** (February 2020)
 - NLP Business Applications, **Cedric Wagrez, Gengo, Lionbridge AI** (February 2020)
 - 'Scikit-project': How open source is empowering open science – and vice versa, **Nathan Shammah, Postdoctoral Researcher, Theoretical Quantum Physics Laboratory, RIKEN** (November 2019)
@@ -32,6 +33,21 @@ https://thomwolf.io/
 
 - [Slides](https://docs.google.com/presentation/d/1GTRsJEgdjpd05Al1FEcqkymv-9sgiZIGc4melCA1Mmw/edit?usp=sharing)
 - [Talk (YouTube)](https://youtu.be/t86G11tfVNw)
+
+## Chris Gerpheide (Bespoke)
+
+### Design and Testing patterns for Machine Learning
+
+### Talk
+FactoryFactories and so can you – OO Design and Testing patterns for Machine Learning
+Object-oriented programming has long been known for its design patterns, which help coders write maintainable, high-quality code.
+In this talk, Chris talks about a number of design patterns that are particularly useful for machine learning applications, including why and how you can implement them yourself. She also covers strategies for writing unit and integration tests for the machine learning code.
+
+### Speaker Bio
+Chris Gerpheide is the CTO at Bespoke Inc. https://www.be-spoke.io. Before joining Bespoke, she was an engineering manager at Amazon Web Services in the Netherlands. In her free time, she enjoys learning Japanese, hiking, and playing the violin.
+
+- [Slides](https://github.com/bespoke-inc/bespoke-public-talks/blob/master/2020/2020-09-26-MLT-DesignAndTestPatternsForML/slides/DesignAndTestPatternsForML_Bespoke.pdf)
+- [Code](https://github.com/bespoke-inc/bespoke-public-talks/tree/master/2020/2020-09-26-MLT-DesignAndTestPatternsForML/code)
 
 ## Nathan Shammah (RIKEN)
 
