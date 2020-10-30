@@ -2,6 +2,7 @@
 
 # Slides, videos and other resources from MLT Talks.
 
+- An introduction to transfer learning in NLP and HuggingFace, **Thomas Wolf, Co-Founder and CSO at HuggingFace** (October 2020)
 - Open-source for quantum technologies, **Nathan Shammah, RIKEN** (February 2020)
 - NLP Business Applications, **Cedric Wagrez, Gengo, Lionbridge AI** (February 2020)
 - 'Scikit-project': How open source is empowering open science – and vice versa, **Nathan Shammah, Postdoctoral Researcher, Theoretical Quantum Physics Laboratory, RIKEN** (November 2019)
@@ -18,7 +19,21 @@
 - Beyond Supervised Driving **Adrien Gaidon, Toyota Research Institute** (March 2019)
  
 
-## Nathan Shammah, RIKEN
+## Thomas Wolf (HuggingFace)
+
+### An introduction to transfer learning in NLP and HuggingFace
+
+### Talk
+MLT welcomed Thomas Wolf, Co-founder and Chief Science Officer at HuggingFace, for a talk on "An introduction to transfer learning in NLP and HuggingFace". Thomas introduces the recent breakthroughs in NLP that resulted from the combination of Transfer Learning schemes and Transformer architectures. The second part of the talk is dedicated to an introduction of the open-source tools released by HuggingFace, in particular Transformers, Tokenizers and Datasets libraries and models. Read more: https://huggingface.co/
+
+### Speaker Bio
+Thomas Wolf is co-founder and Chief Science Officer of HuggingFace. His team is on a mission to catalyze and democratize NLP research. Prior to HuggingFace, Thomas gained a Ph.D. in physics, and later a law degree. He worked as a physics researcher and a European Patent Attorney.
+https://thomwolf.io/
+
+- [Slides](https://docs.google.com/presentation/d/1GTRsJEgdjpd05Al1FEcqkymv-9sgiZIGc4melCA1Mmw/edit?usp=sharing)
+- [Talk (YouTube)](https://youtu.be/t86G11tfVNw)
+
+## Nathan Shammah (RIKEN)
 
 ### Open-source for quantum technologies
 
